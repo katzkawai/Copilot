@@ -41,6 +41,16 @@ git clone https://github.com/katzkawai/Copilot.git
 
 `style.css`でデザインをカスタマイズできます。
 
+## 更新履歴
+
+### 2025-11-02
+- プロフィール画像を犬の画像に変更
+- README.mdを追加
+
+### 2025-11-02（初版）
+- プロジェクト作成
+- 自己紹介サイトの基本機能を実装
+
 ## ライセンス
 
 © 2025 All rights reserved.
